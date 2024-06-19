@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from Philippines</h3>
 <img align="right" alt="Coding" width=400 src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaittoo&label=Profile%20views&color=0e75b6&style=flat" alt="shaittoo" /> </p>
