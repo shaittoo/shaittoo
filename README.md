@@ -22,7 +22,7 @@
 
 <h2 align="left" margin= "10px" style.less = "border-bottom : none"> Now Playing 🎧</h2> 
 
-[<img src="https://novatorem-phi-ebon.vercel.app/api/spotify" width=350/>](https://open.spotify.com/user/nvphsm62lh4za1mrs0tii7ew3)
+[<img src="novatorem-6cn9ydyfv-shaina-talisays-projects.vercel.app/api/spotify" width=350/>](https://open.spotify.com/user/nvphsm62lh4za1mrs0tii7ew3)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaittoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shaittoo" /></p>
 
