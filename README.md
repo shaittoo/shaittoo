@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shai</h1>
 <h3 align="center">A passionate FullStack developer from Philippines</h3>
-<div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"><br> </div>
 <br> <img align="right" alt="Coding" width=400 src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" </img>
 
 [![](https://visitcount.itsvg.in/api?id=shaittoo&icon=2&color=8)](https://visitcount.itsvg.in)
@@ -26,10 +24,14 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaittoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaittoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shaittoo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+# GitHub Stats 📊:
+<div align=center gap= 20px>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaittoo&theme=gotham&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api?username=shaittoo&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaittoo&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+
+
 </div>
 
 <div align="center">
