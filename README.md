@@ -27,8 +27,7 @@
   <img src="https://streak-stats.demolab.com?user=shaittoo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+![Snake animation](https://raw.githubusercontent.com/shaittoo/shaittoo/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/shaittoo/shaittoo/output/snake.svg" alt="Snake animation" />
-
+## Listening 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nvphsm62lh4za1mrs0tii7ew3&unique={true|1|on|yes})
