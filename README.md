@@ -1,7 +1,7 @@
 <div align="center">
 <img  alt="Coding" width=400 src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" </img> </div>
 
-<h1 align="center">Hi 👋, I'm Shai</h1>
+<h1 align="center">Hey there 👋, I'm Shai</h1>
 <br> 
 
 [![](https://visitcount.itsvg.in/api?id=shaittoo&icon=2&color=8)](https://visitcount.itsvg.in)
